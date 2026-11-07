@@ -1,0 +1,6 @@
+{
+  "name": "Kamui Studio",
+  "description": "Votre imagination en 4K. Créez des animés complets de A à Z, sans limite avec intelligence artificielle, studio collaboratif et système de paiement multi-devises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
